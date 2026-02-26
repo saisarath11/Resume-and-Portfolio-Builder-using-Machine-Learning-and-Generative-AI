@@ -1,5 +1,3 @@
-** Resume and Portfolio Builder using Machine Learning and Generative AI **
-
 !pip install -q scikit-learn transformers reportlab
 
 import pandas as pd
